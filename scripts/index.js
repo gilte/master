@@ -796,7 +796,7 @@
 
            let re87 = num1 * v * num2-g;
            let cov87 = String(re87);
-           let list87 = cov83;
+           let list87 = cov87;
            let li87 = list87[list87.length - 1];
            let li087 = list87[list87.length - 2];
            let li0087 = li087+li87;
