@@ -3,19 +3,14 @@ body{
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        margin-left: 5px;
-        margin-right: 5px;
-        width: 100%;
-        
      
         
         text-align: center;
       }
       #iframe{
-        width: 100%;
+        width: 580px;
         height:300px;
         border: 0px;
-        display: flex;
       }
       #pri{
         display: flex;
@@ -23,7 +18,7 @@ body{
         margin-left:auto;
 			  margin-right:auto;
 			  opacity: 80%;
-        width;100%;
+        width;580px;
         height: 200px;
         background-ocolor: Silver;
       
@@ -86,7 +81,7 @@ p{color:#696969;
 			    }
 			    #entradas{background-color:#FFFFFF;
 			    height:240px;
-			    width:100%;
+			    width:580px;
 			    margin-top:100px;
 			    margin-left:auto;
 			    margin-right:auto;
@@ -121,7 +116,7 @@ p{color:#696969;
 			    table{
 			    
 			        margin-top:5px;
-			        width: 580px;
+			        width: 280px;
 			        background-color:#FFC837;
 			        flex-direction: row;
 			        flex-wrap: wrap;
@@ -157,7 +152,7 @@ p{color:#696969;
 	
 			        display: flex;
 			        justify-content: center;
-			        justify-items: center;
+			        justify-itens: center;
 			    }
 			    
 			   
