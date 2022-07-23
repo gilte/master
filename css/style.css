@@ -1,5 +1,5 @@
 body{
-        background-image: url('../images/IMG-20220723-WA0001.jpg');
+        background-image: url('../images/IMG-20220719-WA0156.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
@@ -8,7 +8,7 @@ body{
         
       }
       #iframe{
-        width: 1000px;
+        width: 980px;
         height:300px;
         border: 0px;
         display: flex;
@@ -22,7 +22,7 @@ body{
         margin-left:auto;
 			  margin-right:auto;
 			  opacity: 80%;
-        width;1000px;
+        width;980px;
         height: 200px;
       
       
@@ -87,7 +87,7 @@ p{color:#696969;
 			    }
 			    #entradas{background-color:#FFFFFF;
 			    height:240px;
-			    width:1000px;
+			    width: 980px;
 			    margin-top:100px;
 			    margin-left:auto;
 			    margin-right:auto;
@@ -128,7 +128,7 @@ p{color:#696969;
 			    table{
 			    
 			        margin-top:5px;
-			        width: 490px;
+			        width: 480px;
 			        background-color:white;
 			        flex-direction: row;
 			        flex-wrap: wrap;
