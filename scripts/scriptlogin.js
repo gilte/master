@@ -1,7 +1,7 @@
 
 
-    var loginCadastrado = "user123";
-    var senhaCadastrada = "123456";
+    var loginCadastrado = "1";
+    var senhaCadastrada = "0";
 
     contador = 1;
     while(contador <=99999999){
