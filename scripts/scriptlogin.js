@@ -1,6 +1,6 @@
 
 
-    /*var loginCadastrado = "1";
+    var loginCadastrado = "1";
     var senhaCadastrada = "0";
 
     contador = 1;
