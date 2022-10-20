@@ -773,9 +773,9 @@ p{color:#696969;
 	  
 
 	  
-			    @media (max-width: 490px){
+			    @media (max-width: 480px){
      #iframe{
-        width: 480px;
+        width: 470px;
         
         border: 0px;
         display: flex;
@@ -791,7 +791,7 @@ p{color:#696969;
         margin-left:auto;
 			  margin-right:auto;
 			  opacity: 80%;
-        width: 480px;
+        width: 470px;
         margin-top: 5px;
        
         
@@ -857,7 +857,7 @@ p{color:#696969;
 			    }
 			    #entradas{background-color:#FFFFFF;
 			    height:240px;
-			    width:480px;
+			    width:470px;
 			    margin-top:100px;
 			    margin-left:auto;
 			    margin-right:auto;
@@ -895,7 +895,7 @@ p{color:#696969;
 			    table{
 			    
 			        margin-top:5px;
-			        width: 235px;
+			        width: 230px;
 			        background-color:white;
 			        flex-direction: row;
 			        flex-wrap: wrap;
